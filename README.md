@@ -1,3 +1,3 @@
 # My SQL REPO
-## this is an example heading
-Sometimes I like to **bold** my text
+## Examples of my SQL queries
+**Thank You** for taking a look!
