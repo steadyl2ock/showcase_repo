@@ -1,3 +1,3 @@
-# My SQL REPO
+# ALEX's SQL REPO
 ## Examples of my SQL queries
-**Thank You** for taking a look!
+**Thank You** for looking!
